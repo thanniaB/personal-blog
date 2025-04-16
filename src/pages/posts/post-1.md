@@ -1,6 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'What is this'
+summary: 'On why am I doing this blog and the current state of the world.'
 pubDate: 2025-03-06
 ---
 

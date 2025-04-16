@@ -111,3 +111,26 @@ nav {
     }
   }
  
+/* blog snippets*/
+.post-container {
+    list-style-type: none;
+    color: #000;
+    background-color: #fff;
+    padding: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid black;
+    border-bottom-style: dashed;
+    margin-bottom: 2rem;
+}
+
+.post-container a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+.dark .post-container {
+    background-color: #000;
+    color: #fff;
+    border-color: #fff;
+}
